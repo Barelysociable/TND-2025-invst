@@ -1,0 +1,108 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # Tone DJ Investor Materials - Private & Confidential\
+# Block all AI training, search engines, and data scrapers\
+\
+User-agent: AI2Bot\
+User-agent: Ai2Bot-Dolma\
+User-agent: aiHitBot\
+User-agent: Amazonbot\
+User-agent: Andibot\
+User-agent: anthropic-ai\
+User-agent: Applebot\
+User-agent: Applebot-Extended\
+User-agent: bedrockbot\
+User-agent: Brightbot 1.0\
+User-agent: Bytespider\
+User-agent: CCBot\
+User-agent: ChatGPT-User\
+User-agent: Claude-SearchBot\
+User-agent: Claude-User\
+User-agent: Claude-Web\
+User-agent: ClaudeBot\
+User-agent: cohere-ai\
+User-agent: cohere-training-data-crawler\
+User-agent: Cotoyogi\
+User-agent: Crawlspace\
+User-agent: Diffbot\
+User-agent: DuckAssistBot\
+User-agent: EchoboxBot\
+User-agent: FacebookBot\
+User-agent: facebookexternalhit\
+User-agent: Factset_spyderbot\
+User-agent: FirecrawlAgent\
+User-agent: FriendlyCrawler\
+User-agent: Google-CloudVertexBot\
+User-agent: Google-Extended\
+User-agent: GoogleOther\
+User-agent: GoogleOther-Image\
+User-agent: GoogleOther-Video\
+User-agent: GPTBot\
+User-agent: iaskspider/2.0\
+User-agent: ICC-Crawler\
+User-agent: ImagesiftBot\
+User-agent: img2dataset\
+User-agent: ISSCyberRiskCrawler\
+User-agent: Kangaroo Bot\
+User-agent: meta-externalagent\
+User-agent: Meta-ExternalAgent\
+User-agent: meta-externalfetcher\
+User-agent: Meta-ExternalFetcher\
+User-agent: MistralAI-User/1.0\
+User-agent: MyCentralAIScraperBot\
+User-agent: NovaAct\
+User-agent: OAI-SearchBot\
+User-agent: omgili\
+User-agent: omgilibot\
+User-agent: Operator\
+User-agent: PanguBot\
+User-agent: Panscient\
+User-agent: panscient.com\
+User-agent: Perplexity-User\
+User-agent: PerplexityBot\
+User-agent: PetalBot\
+User-agent: PhindBot\
+User-agent: Poseidon Research Crawler\
+User-agent: QualifiedBot\
+User-agent: QuillBot\
+User-agent: quillbot.com\
+User-agent: SBIntuitionsBot\
+User-agent: Scrapy\
+User-agent: SemrushBot\
+User-agent: SemrushBot-BA\
+User-agent: SemrushBot-CT\
+User-agent: SemrushBot-OCOB\
+User-agent: SemrushBot-SI\
+User-agent: SemrushBot-SWA\
+User-agent: Sidetrade indexer bot\
+User-agent: TikTokSpider\
+User-agent: Timpibot\
+User-agent: VelenPublicWebCrawler\
+User-agent: Webzio-Extended\
+User-agent: wpbot\
+User-agent: YandexAdditional\
+User-agent: YandexAdditionalBot\
+User-agent: YouBot\
+Disallow: /\
+\
+# Also block regular search engines\
+User-agent: Googlebot\
+User-agent: Bingbot\
+User-agent: Slurp\
+User-agent: DuckDuckBot\
+User-agent: Baiduspider\
+User-agent: facebookexternalhit\
+Disallow: /\
+\
+# Block everything else too\
+User-agent: *\
+Disallow: /\
+Crawl-delay: 86400\
+\
+# This is a private investor page\
+# Not for public consumption or AI training}
